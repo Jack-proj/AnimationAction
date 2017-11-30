@@ -27,6 +27,15 @@
     <ClCompile Include="..\Classes\Final\CRunner.cpp">
       <Filter>src\Final</Filter>
     </ClCompile>
+    <ClCompile Include="C3SButton.cpp">
+      <Filter>src\Final</Filter>
+    </ClCompile>
+    <ClCompile Include="CObstacle.cpp">
+      <Filter>src\Final</Filter>
+    </ClCompile>
+    <ClCompile Include="CScoring.cpp">
+      <Filter>src\Final</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
@@ -39,6 +48,15 @@
       <Filter>src</Filter>
     </ClInclude>
     <ClInclude Include="..\Classes\Final\CRunner.h">
+      <Filter>src\Final</Filter>
+    </ClInclude>
+    <ClInclude Include="C3SButton.h">
+      <Filter>src\Final</Filter>
+    </ClInclude>
+    <ClInclude Include="CObstacle.h">
+      <Filter>src\Final</Filter>
+    </ClInclude>
+    <ClInclude Include="CScoring.h">
       <Filter>src\Final</Filter>
     </ClInclude>
   </ItemGroup>
